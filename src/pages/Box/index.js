@@ -86,14 +86,6 @@ export default class Box extends Component {
                 </span>
               </li>
             ))}
-
-          <li>
-            <a className="fileInfo" href=" ">
-              <MdInsertDriveFile size={24} color="#a5cfff" />
-              <strong>De.pdf</strong>
-            </a>
-            <span>ha 3 min</span>
-          </li>
         </ul>
       </div>
     );
